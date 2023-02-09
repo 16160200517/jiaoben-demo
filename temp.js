@@ -13,5 +13,5 @@
 (function() {
     'use strict';
 
-    console.log('hello new world')
+    console.log('new world')
 })();
